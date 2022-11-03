@@ -1,0 +1,1 @@
+print ("manabu ikkinchi ish")
